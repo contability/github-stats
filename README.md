@@ -9,22 +9,22 @@
 
 <br/>
 
-> NOTE: This repository is my extension of [jstrieb/github-stats](https://github.com/jstrieb/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent).
+> NOTE: This repository is my extension of [jstrieb/github-stats](https://github.com/contability/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/contability/github-stats-transparent).
 
 
 <br/>
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/contability/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/contability/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/contability/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/contability/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
